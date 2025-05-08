@@ -1,7 +1,9 @@
-.body {
-background-color:linear-gradient(to right, red , yellow);
-}
-.p {
-    position: relative;
-    position: right;
+body {
+    background-image: linear-gradient(to right, rgb(181, 214,197) , rgb(120, 162, 209), rgb(181, 214, 197));
+    
+  }
+imgs {
+    margin-right: 150px;
+    margin-bottom: 150px;
+   
 }
